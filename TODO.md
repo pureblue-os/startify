@@ -89,3 +89,8 @@ A structured plan for building **Startify**, an opinionated launcher/autostart/A
   - Fallback gracefully if not
 - [ ] Auto-fix outdated `.desktop` actions silently over time
   - Detect mismatches and update in background
+
+## Future plans
+- Try to add flatpak support and also, make this app mainly a flatpak store, which also lets you install and manage other stuff from files.
+- Also should let you manage flatpak permissions.
+- Everything about apps basically, store, install, manage, config, permissions, etc.
